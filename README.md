@@ -48,3 +48,32 @@ by a login screen that will require a username and password.
   
   ### User Login
   ![User Login](https://user-images.githubusercontent.com/120418517/210607247-e3fc01ea-b828-492f-b8f3-2b6c96e078c5.PNG)
+  
+  ### Home Window
+  ![home page](https://user-images.githubusercontent.com/120418517/210607655-435b3a1b-dffc-41ef-a33e-e16f71e89cea.PNG)
+  
+  ### Add Customer
+  ![Add customer](https://user-images.githubusercontent.com/120418517/210607799-26d8f09d-9004-4446-aded-0ef6c4ef4e83.PNG)
+  
+  ### Search Customer
+  ![Search customer](https://user-images.githubusercontent.com/120418517/210607969-f0ac07f9-a029-491f-8e6f-98b10086e0d8.PNG)
+  
+  ### Add Flight
+  ![add flight](https://user-images.githubusercontent.com/120418517/210608152-32181cba-3890-4fd5-9261-4d9f3a9f0440.PNG)
+  
+  ### Search Flight
+  ![Search flight](https://user-images.githubusercontent.com/120418517/210608302-ecd41adf-2638-4485-b3f8-0bdab8dc9cfe.PNG)
+  
+  ### User Creation
+  ![User creation](https://user-images.githubusercontent.com/120418517/210608450-a8f8e7fd-ad5c-4b93-9ba3-7acb19efe92b.PNG)
+  
+  
+  ## How to run this project?
+  1.download zip file
+  2.extract zip file
+  3.import project in Netbeans ide
+
+
+
+
+
